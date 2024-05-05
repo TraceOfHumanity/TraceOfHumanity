@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Ovchar</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Fullstack web developer</h3>
 
 - 🔭 I’m currently working on **Trace of Humanity**
@@ -24,3 +24,4 @@
 </p>  
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&theme=dark)](https://github.com/TraceOfHumanity)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&theme=dark-smoky)](https://github.com/TraceOfHumanity)
