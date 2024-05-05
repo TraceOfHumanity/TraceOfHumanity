@@ -24,4 +24,5 @@
 </p>  
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&theme=dark)](https://github.com/TraceOfHumanity)
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&theme=dark-smoky)](https://github.com/TraceOfHumanity)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TraceOfHumanity&theme=dark-smoky)](https://git.io/streak-stats)
+
