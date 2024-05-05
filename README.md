@@ -23,4 +23,4 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>  
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&theme=rising-sun)](https://github.com/TraceOfHumanity)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,scss,stylus,liquid,css&&theme=rising-sun)](https://github.com/TraceOfHumanity)
