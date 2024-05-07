@@ -24,5 +24,5 @@
 </p>  
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TraceOfHumanity&hide=html,stylus,liquid,css,scss&theme=dark)](https://github.com/TraceOfHumanity)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,redux,git,html,css,arduino,blender,cpp,express,figma,firebase,jest,mongodb,obsidian,postman,regex,sass,tailwind,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,redux,nextjs,express,jest,mongodb,firebase,git,html,css,arduino,blender,cpp,figma,obsidian,postman,regex,sass,tailwind,vercel,netlify)](https://skillicons.dev)
 
